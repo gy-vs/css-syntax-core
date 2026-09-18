@@ -60,6 +60,10 @@
       "import": "./lib/definition-syntax/index.js",
       "require": "./cjs/definition-syntax/index.cjs"
     },
+    "./property-syntax": {
+      "import": "./lib/property-syntax/index.js",
+      "require": "./cjs/property-syntax/index.cjs"
+    },
     "./definition-syntax-data": {
       "import": "./lib/data.js",
       "require": "./cjs/data.cjs"
